@@ -712,3 +712,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1614.946778 seconds.
+  path: Assets/Sprites/415733.png
+  artifactKey: Guid(ef5e0dad0a7304d98b7c9c40e93cc91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/415733.png using Guid(ef5e0dad0a7304d98b7c9c40e93cc91c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8eee3bb406815db86092242665b89c5') in 0.373268 seconds 
+  Import took 0.469561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.105527 seconds.
+  path: Assets/Sprites/Poop_large.png
+  artifactKey: Guid(367ead2409e9345c3ab1e279f3215dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Poop_large.png using Guid(367ead2409e9345c3ab1e279f3215dd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d71440d99ddcc78e1bc25f861ef2db9') in 0.045810 seconds 
+  Import took 0.057396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.948998 seconds.
+  path: Assets/Sprites/image-437589.png
+  artifactKey: Guid(3db00f4f3fe9e4908b2fdc31048da239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/image-437589.png using Guid(3db00f4f3fe9e4908b2fdc31048da239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab98491c4c0c992f4d3361b66dee5c6e') in 0.050383 seconds 
+  Import took 0.063038 seconds .
+
